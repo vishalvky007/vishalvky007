@@ -3,7 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalvky007&label=Profile%20views&color=0e75b6&style=flat" alt="vishalvky007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalvky007&theme=darkhub&column=3&margin-w=100&margin-h=100" alt="vishalvky007" /></a> </p>
+## <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/username=vishalvky007&theme=darkhub&column=3&margin-w=15&margin-h=15" alt="vishalvky007" /></a> </p>
+
+<style>
+/* Default styles for larger screens */
+#github-trophy {
+  column-count: 3;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 1200px) {
+  #github-trophy {
+    column-count: -1;
+  }
+}
+</style>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img id="github-trophy" src="https://github-profile-trophy.vercel.app/?username=vishalvky007&theme=darkhub&column=3&margin-w=15&margin-h=15" alt="vishalvky007" />
+  </a>
+</p>
+
+
 
 - 🔭 I’m currently working on [Hotel Booking Website](https://github.com/vishalvky007/Hotel-booking-website)
 
