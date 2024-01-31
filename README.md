@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Hotel Booking Website](http://theparadise.infinityfreeapp.com/)
 
-- 🌱 I’m currently learning **JavaScript, Reactjs, Bootstrap**
+- 🌱 I’m currently learning **JavaScript, React.js, Bootstrap**
   
 - My inaugural web creation for [AHP Inter College](https://ahpintercollege.in) 🌐 | Embarking on the journey of web development with heart and code 💙💻 | Building a digital presence for educational excellence 🏫✨
 
