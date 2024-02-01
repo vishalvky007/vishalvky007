@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React.js, Bootstrap**
   
-- My debut web project for AHP Inter College 🌐 | Collaborated with [Aman Rajput](https://github.com/AmanRajput001) on this endeavor; backend contributions by him, while the frontend was crafted by yours truly 🤝 | Building a digital presence for educational excellence 🏫✨
+- My debut web project for [AHP Inter College](https://ahpintercollege.in/) 🌐 | Collaborated with [Aman Rajput](https://github.com/AmanRajput001) on this endeavor; backend contributions by him, while the frontend was crafted by yours truly 🤝 | Building a digital presence for educational excellence 🏫✨
 
 - Embarking on the web development journey with heart and code 💙💻 
 
