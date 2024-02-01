@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalvky007&theme=darkhub" alt="vishalvky007" /></a> </p>
 
 
-- 🔭 I’m currently working on <a href="https://theparadise.infinityfreeapp.com/" target="_blank">Hotel Booking Website</a>
+- 🔭 I’m currently working on <a href="https://theparadise.infinityfreeapp.com/" target="blank">Hotel Booking Website</a>
 
 - 🌱 I’m currently learning **JavaScript, React.js, Bootstrap**
   
