@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React.js, Bootstrap**
   
-- My inaugural web creation for [AHP Inter College](https://ahpintercollege.in) 🌐 | Embarking on the journey of web development with heart and code 💙💻 | Building a digital presence for educational excellence 🏫✨
+- My debut web project for AHP Inter College 🌐 | Embarking on the web development journey with heart and code 💙💻 | Collaborated with Aman Rajput on this endeavor; backend contributions by him, while the frontend was crafted by yours truly 🤝 | Building a digital presence for educational excellence 🏫✨"My inaugural web creation for [AHP Inter College](https://ahpintercollege.in) 🌐 | Embarking on the journey of web development with heart and code 💙💻 | Building a digital presence for educational excellence 🏫✨
 
 - 📫 How to reach me **vishal25yadav08@gmail.com**
 
