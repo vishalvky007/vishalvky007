@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Yadav</h1>
-<h3 align="center">Enthusiastic Frontend Developer 🚀 | Crafting web experiences with passion and precision 🎨 | Code poet from India 🇮🇳 | Turning ideas into interactive realities 💻✨</h3>
+<h3 align="center">Enthusiastic Full Stack Developer 🚀 | Crafting web experiences with passion and precision 🎨 | Code poet from India 🇮🇳 | Turning ideas into interactive realities 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalvky007&label=Profile%20views&color=0e75b6&style=flat" alt="vishalvky007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalvky007&theme=darkhub" alt="vishalvky007" /></a> </p>
 
-
-- 🔭 I’m currently working on [Hotel Booking Website](https://theparadise.infinityfreeapp.com/)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, React-Native, MongoDB**
   
