@@ -1,41 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Vishal%20Kumar%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Poet%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:22D3EE&height=220&section=header&text=Vishal%20Kumar%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI-Curious%20Full%20Stack%20Developer%20%7C%20Prompting%20LLMs%20into%20Products%20%F0%9F%A7%A0%E2%9A%A1&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Turning+ideas+into+interactive+realities+%E2%9C%A8;Crafting+web+experiences+with+passion+%F0%9F%8E%A8;Currently+leveling+up+in+MERN+%2B+React+Native+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Turning+ideas+into+interactive+realities+%E2%9C%A8;Prompting+LLMs+into+real-world+products+%F0%9F%A7%A0;Building+AI+agents+with+LangChain+%26+friends+%F0%9F%A4%96;Currently+leveling+up+in+MERN+%2B+React+Native+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vishalvky007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/vishalvky007?label=Followers&style=for-the-badge&color=6a11cb" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=vishalvky007&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/vishalvky007?label=Followers&style=for-the-badge&color=22d3ee&logoColor=white" alt="Followers"/>
 </p>
 
 <p>
-  <a href="mailto:vishal25yadav08@gmail.com"><img src="https://img.shields.io/badge/📫_Get_in_touch-0e75b6?style=for-the-badge" alt="Get in touch"/></a>
-  <a href="#-featured-project"><img src="https://img.shields.io/badge/🚀_See_my_work-6a11cb?style=for-the-badge" alt="See my work"/></a>
+  <a href="mailto:vishal25yadav08@gmail.com"><img src="https://img.shields.io/badge/📫_Get_in_touch-7C3AED?style=for-the-badge" alt="Get in touch"/></a>
+  <a href="#-featured-project"><img src="https://img.shields.io/badge/🚀_See_my_work-0891B2?style=for-the-badge" alt="See my work"/></a>
 </p>
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+## 🧠 About Me
 
 ```yaml
-name: Vishal Kumar Yadav
-role: Full Stack Developer
-location: India 🇮🇳
-currently_learning: [JavaScript, Node.js, React Native, MongoDB]
-currently_building: "Digital presence for AHP Inter College"
-fun_fact: "I write code the way poets write verses — with intent."
-reach_me_at: vishal25yadav08@gmail.com
+model: VishalKumarYadav-v1
+architecture: Full-Stack-Developer
+base_location: India 🇮🇳
+training_data: [JavaScript, Node.js, React Native, MongoDB]
+fine_tuning: "Prompt engineering, LangChain agents, OpenAI / Gemini / Claude APIs"
+currently_deploying: "Digital presence for AHP Inter College"
+temperature: high  # curiosity-driven
+system_prompt: "I write code the way poets write verses — with intent."
+contact_endpoint: vishal25yadav08@gmail.com
 ```
 
+- 🧠 Exploring **LLMs, prompt engineering & agentic workflows** with LangChain
+- 🔌 Building with **OpenAI, Google Gemini & Anthropic Claude** APIs
 - 🌱 Currently deep-diving into **JavaScript, Node.js, React Native & MongoDB**
 - 🏫 Shipped my debut web project for **[AHP Inter College](https://ahpintercollege.in/)** — teamed up with **[Aman Rajput](https://github.com/AmanRajput001)** (backend by him, frontend crafted by me) 🤝
-- 💙 Walking the web-dev journey one commit at a time
+- 💜 Walking the web-dev + AI journey one commit — and one prompt — at a time
 - 📫 Reach me at **vishal25yadav08@gmail.com**
+
+<br/>
+
+## 🕸️ Neural Interests
+
+<div align="center">
+
+| 🔵 Input Layer | 🟣 Hidden Layers | 🟢 Output Layer |
+|:---:|:---:|:---:|
+| Curiosity | Prompt Engineering | AI-assisted features |
+| JavaScript / Python | LangChain Agents | Shipped projects |
+| Real-world problems | OpenAI · Gemini · Claude APIs | Continuous learning |
+
+</div>
 
 <br/>
 
@@ -74,6 +92,14 @@ A live school website built from the ground up: responsive frontend, clean infor
 
 <div align="center">
 
+**AI & LLM**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
+
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -108,20 +134,20 @@ A live school website built from the ground up: responsive frontend, clean infor
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vishalvky007&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Vishal's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvky007&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishalvky007&show_icons=true&locale=en&hide_border=true&count_private=true&bg_color=0F0F23&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC" alt="Vishal's GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvky007&layout=compact&locale=en&hide_border=true&bg_color=0F0F23&title_color=7C3AED&text_color=F8FAFC" alt="Top languages" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvky007&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvky007&hide_border=true&background=0F0F23&ring=7C3AED&fire=EC4899&currStreakLabel=22D3EE&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub streak"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalvky007&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalvky007&hide_border=true&area=true&bg_color=0F0F23&color=22D3EE&line=7C3AED&point=EC4899" alt="GitHub activity graph" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vishalvky007&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vishalvky007&theme=discord&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
 </div>
 
 <br/>
@@ -158,8 +184,8 @@ A live school website built from the ground up: responsive frontend, clean infor
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6366F1,100:7C3AED&height=120&section=footer" width="100%"/>
 
 <div align="center">
-<i>⭐️ Thanks for stopping by — feel free to explore, star, and connect!</i>
+<i>🧠 Thanks for stopping by — feel free to explore, star, and connect!</i>
 </div>
