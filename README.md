@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/github/followers/vishalvky007?label=Followers&style=for-the-badge&color=6a11cb" alt="Followers"/>
 </p>
 
+<p>
+  <a href="mailto:vishal25yadav08@gmail.com"><img src="https://img.shields.io/badge/📫_Get_in_touch-0e75b6?style=for-the-badge" alt="Get in touch"/></a>
+  <a href="#-featured-project"><img src="https://img.shields.io/badge/🚀_See_my_work-6a11cb?style=for-the-badge" alt="See my work"/></a>
+</p>
+
 </div>
 
 <br/>
@@ -31,6 +36,37 @@ reach_me_at: vishal25yadav08@gmail.com
 - 🏫 Shipped my debut web project for **[AHP Inter College](https://ahpintercollege.in/)** — teamed up with **[Aman Rajput](https://github.com/AmanRajput001)** (backend by him, frontend crafted by me) 🤝
 - 💙 Walking the web-dev journey one commit at a time
 - 📫 Reach me at **vishal25yadav08@gmail.com**
+
+<br/>
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+### 🏫 AHP Inter College — Digital Presence
+
+A live school website built from the ground up: responsive frontend, clean information architecture, and a fast, accessible experience for students, parents, and staff. My first shipped project as a developer, built in collaboration with **[Aman Rajput](https://github.com/AmanRajput001)**.
+
+**My role:** Frontend design & implementation &nbsp;•&nbsp; **Partner's role:** Backend
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+
+<br/><br/>
+
+**[🌐 Visit Live Site](https://ahpintercollege.in/)**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -81,7 +117,25 @@ reach_me_at: vishal25yadav08@gmail.com
 </div>
 
 <div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalvky007&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="100%"/>
+</div>
+
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=vishalvky007&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalvky007/vishalvky007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalvky007/vishalvky007/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/vishalvky007/vishalvky007/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
 <br/>
