@@ -1,32 +1,111 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar Yadav</h1>
-<h3 align="center">Enthusiastic Full Stack Developer 🚀 | Crafting web experiences with passion and precision 🎨 | Code poet from India 🇮🇳 | Turning ideas into interactive realities 💻✨</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalvky007&label=Profile%20views&color=0e75b6&style=flat" alt="vishalvky007" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Vishal%20Kumar%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Poet%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalvky007&theme=darkhub" alt="vishalvky007" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Turning+ideas+into+interactive+realities+%E2%9C%A8;Crafting+web+experiences+with+passion+%F0%9F%8E%A8;Currently+leveling+up+in+MERN+%2B+React+Native+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-
-- 🌱 I’m currently learning **JavaScript, Node.js, React-Native, MongoDB**
-  
-- My debut web project for [AHP Inter College](https://ahpintercollege.in/) 🌐 | Collaborated with [Aman Rajput](https://github.com/AmanRajput001) on this endeavor; backend contributions by him, while the frontend was crafted by yours truly 🤝 | Building a digital presence for educational excellence 🏫✨
-
-- Embarking on the web development journey with heart and code 💙💻 
-
-- 📫 How to reach me **vishal25yadav08@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vishal_vky007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_vky007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishalvky007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalvky007" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vishalvky007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/vishalvky007?label=Followers&style=for-the-badge&color=6a11cb" alt="Followers"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+</div>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalvky007&show_icons=true&locale=en&layout=compact&theme=dark" alt="vishalvky007" /></p>
+## 🧭 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalvky007&show_icons=true&locale=en&theme=dark" alt="vishalvky007" /></p>
+```yaml
+name: Vishal Kumar Yadav
+role: Full Stack Developer
+location: India 🇮🇳
+currently_learning: [JavaScript, Node.js, React Native, MongoDB]
+currently_building: "Digital presence for AHP Inter College"
+fun_fact: "I write code the way poets write verses — with intent."
+reach_me_at: vishal25yadav08@gmail.com
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvky007&theme=dark" alt="vishalvky007" /></p>
+- 🌱 Currently deep-diving into **JavaScript, Node.js, React Native & MongoDB**
+- 🏫 Shipped my debut web project for **[AHP Inter College](https://ahpintercollege.in/)** — teamed up with **[Aman Rajput](https://github.com/AmanRajput001)** (backend by him, frontend crafted by me) 🤝
+- 💙 Walking the web-dev journey one commit at a time
+- 📫 Reach me at **vishal25yadav08@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
+**Backend & Data**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vishalvky007&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Vishal's GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvky007&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvky007&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vishalvky007&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://instagram.com/vishal_vky007" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.leetcode.com/vishalvky007" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:vishal25yadav08@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>
+
+<div align="center">
+<i>⭐️ Thanks for stopping by — feel free to explore, star, and connect!</i>
+</div>
